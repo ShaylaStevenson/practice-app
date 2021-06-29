@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-app/static/css/main.e37f86ca.chunk.css",
+    "main.js": "/practice-app/static/js/main.d266bb5e.chunk.js",
+    "main.js.map": "/practice-app/static/js/main.d266bb5e.chunk.js.map",
+    "runtime-main.js": "/practice-app/static/js/runtime-main.3062c2b9.js",
+    "runtime-main.js.map": "/practice-app/static/js/runtime-main.3062c2b9.js.map",
+    "static/js/2.73fb63e3.chunk.js": "/practice-app/static/js/2.73fb63e3.chunk.js",
+    "static/js/2.73fb63e3.chunk.js.map": "/practice-app/static/js/2.73fb63e3.chunk.js.map",
+    "static/js/3.02896643.chunk.js": "/practice-app/static/js/3.02896643.chunk.js",
+    "static/js/3.02896643.chunk.js.map": "/practice-app/static/js/3.02896643.chunk.js.map",
+    "index.html": "/practice-app/index.html",
+    "static/css/main.e37f86ca.chunk.css.map": "/practice-app/static/css/main.e37f86ca.chunk.css.map",
+    "static/js/2.73fb63e3.chunk.js.LICENSE.txt": "/practice-app/static/js/2.73fb63e3.chunk.js.LICENSE.txt",
+    "static/media/profilePicture.76cb7bdc.jpg": "/practice-app/static/media/profilePicture.76cb7bdc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3062c2b9.js",
+    "static/js/2.73fb63e3.chunk.js",
+    "static/css/main.e37f86ca.chunk.css",
+    "static/js/main.d266bb5e.chunk.js"
+  ]
+}
